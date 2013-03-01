@@ -17,3 +17,8 @@ issue 2
 final
 Edit by master
 Edit via web
+
+Project menement
+================
+1. trello
+2. ..
