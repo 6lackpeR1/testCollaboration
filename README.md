@@ -14,6 +14,6 @@ develop 2
 
 issue 2
 =======
-Edit
+final
 Edit by master
 Edit via web
